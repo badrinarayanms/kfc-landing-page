@@ -14,6 +14,8 @@ This project is a simple, non-responsive landing page for KFC. It showcases the 
 
 
 # Hosted Page
+- link: https://badrinarayanms.github.io/kfc-landing-page/
+#
 ![out](https://github.com/badrinarayanms/kfc-landing-page/assets/137931415/26d7d82b-d368-4b42-87c3-557864d6f749)
 
 
